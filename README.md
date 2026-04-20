@@ -5,7 +5,8 @@ Applied Data Scientist | SAP/ABAP Developer | Cybersecurity Enthusiast
 🎓 MSc Information Systems — Central Michigan University  
 📍 Mount Pleasant, MI  
 📫 Rawakayode75@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/oluwakayode-rawa)
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwakayode-rawa)  
+🌐 [Portfolio](https://ok-22.github.io)
 
 ## Featured Projects
 - [Sports Analytics Platform](https://github.com/OK-22/sports-analytics-platform) — ML match prediction
