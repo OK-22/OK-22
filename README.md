@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Oluwakayode Rawa 👋
 
-<!--
-**OK-22/OK-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Data Scientist | SAP/ABAP Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+🎓 MSc Information Systems — Central Michigan University  
+📍 Mount Pleasant, MI  
+📫 Rawakayode75@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwakayode-rawa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Sports Analytics Platform](https://github.com/OK-22/sports-analytics-platform) — ML match prediction
+- [Enterprise Auth System](https://github.com/OK-22/enterprise-auth-system) — TOTP MFA with bcrypt
+- [Network Vulnerability Tool](https://github.com/OK-22/network-vulnerability-tool) — Nmap-based scanner
+- [Soccer League System](https://github.com/OK-22/soccer-league-management) — ABAP OOP
+- [Shopping Cart App](https://github.com/OK-22/shopping-cart-abap) — ABAP Module Pool
